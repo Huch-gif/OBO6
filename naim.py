@@ -1,3 +1,4 @@
+import random
 
 # === Класс Hero ===
 class Hero:
